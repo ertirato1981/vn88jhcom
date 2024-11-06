@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+VN88 - Nhà cái hàng đầu Việt Nam với dịch vụ cá cược đa dạng và chất lượng
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`VN88 <https://vn88jh.com/>`_ là một trong những nhà cái hàng đầu tại Việt Nam, cung cấp một không gian giải trí phong phú và hấp dẫn cho người chơi. Được cấp phép hợp pháp tại Philippines, VN88 đảm bảo tính tin cậy và chất lượng dịch vụ với kinh nghiệm dày dạn trong ngành cá cược. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+VN88 mang đến nhiều sản phẩm đa dạng như cá cược thể thao, casino trực tuyến, game slot và poker, cùng với dịch vụ chăm sóc khách hàng chuyên nghiệp. Với cam kết mang đến trải nghiệm cao cấp cho người chơi, VN88 không ngừng cập nhật các chính sách và trò chơi mới, nhằm đáp ứng tốt nhất nhu cầu giải trí của cộng đồng.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa Chỉ: B442 ĐHT Tổ 20 KP3, Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0908686868. 
 
-.. toctree::
+Email: contact@vn88jh.com. 
 
-   usage
-   api
+Website: https://vn88jh.com/ 
+
+#vn88 #trangchuvn88 #dangkyvn88 #dangnhapvn88 #linkvn88
